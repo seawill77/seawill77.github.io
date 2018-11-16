@@ -44,7 +44,7 @@ Exchange Student: International Engineering
 Hochschule Furtwangen University  
 Villingen-Schwenningen Germany  
 
-Others:
+#### Some Courses or Projects also at:  
 California State University Longbeach  (Electrical Engineering)   USA  
 California State University Dominguez Hills (Computer Science)   USA  
 University Essen-Duisburg  (Mechanical Engineering)  Germany  
