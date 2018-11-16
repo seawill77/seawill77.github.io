@@ -5,7 +5,7 @@
 ### Experiecne
 #2017 – now          
 Owner and Founder of Restaurant: MrsBean Jianbing 2800 N Main St Santa Ana CA92075
-nOpen a new concept restaurant from nothing to everything 
+Open a new concept restaurant from nothing to everything 
 Co-Founder of Boba Milktea Shop --- Capputeano Cha
 #03/2018 – 05/2018   Wechat platform Mini Program: ZukKr (Beta)
 nWechat mini program based local classified information Platform (Zukkr 租氪 小程序)
