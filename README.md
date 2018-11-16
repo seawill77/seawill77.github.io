@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Welcome to Xiaosong-Lu's Pages
 
-You can use the [editor on GitHub](https://github.com/seawill77/seawill77.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Experiecne
+#2017 – now          
+Owner and Founder of Restaurant: MrsBean Jianbing 2800 N Main St Santa Ana CA92075
+nOpen a new concept restaurant from nothing to everything 
+Co-Founder of Boba Milktea Shop --- Capputeano Cha
+#03/2018 – 05/2018   Wechat platform Mini Program: ZukKr (Beta)
+nWechat mini program based local classified information Platform (Zukkr 租氪 小程序)
+#05/2015 – 09/2017   
+Cal State University Longbeach, A1 Wireless Lab 
+Research Assistant, topic: Recognize Wireless System
+#11/2015 – 06/2016   
+German Aerospace Center (DLR), Institut of Concept Vehicle Stuttgart Germany
+Research Assistant, topic: Energy consumption of sensor system on Autonomous Vehicle 
+#01/2014 – 04/2014   
+WMF Metzingen, Metzingen Germany
+Marketing for Asian Customer. Part time Job 
+#09/2010 - 10/2010
+EXPO Shanghai 2010, Shanghai China
+Volunteer
+#09/2010 – 10/2010 09/2009 – 02/2010 
+University of ShangHai for science and technology Virtual Production Institute, Shanghai, China
+3D-Modelling (Catia.v5), Air Plane Part Database.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Study
 
-# Header 1
-## Header 2
-### Header 3
+Master of Science: Software Engineering 
+California State University. 
+California USA 
 
-- Bulleted
-- List
+Master of Engineering: Mechanical Engineering
+Hochschule Esslingen University. 
+Esslingen Germany 
 
-1. Numbered
-2. List
+Bachelor of Science: Mechanical Engineering 
+University of Shanghai for Science and Technology
+Shanghai China
 
-**Bold** and _Italic_ and `Code` text
+Exchange Student: International Engineering
+Hochschule Furtwangen University
+Villingen-Schwenningen Germany
 
-[Link](url) and ![Image](src)
-```
+Others:
+California State University Longbeach  (Electrical Engineering)   USA
+California State University Dominguez Hills (Computer Science)   USA
+University Essen-Duisburg  (Mechanical Engineering)  Germany
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seawill77/seawill77.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Xiaosong.Lu@outlook.com
++1-9497714564
+wechat: seawilll
