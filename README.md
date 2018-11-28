@@ -2,7 +2,7 @@
 
 
 
-## Experiecne
+### Experiecne
 ### 2017 – now          
 Owner and Founder of Restaurant: MrsBean Jianbing 2800 N Main St Santa Ana CA92075  
 Open a new concept restaurant from nothing to everything   
@@ -26,7 +26,7 @@ University of ShangHai for science and technology Virtual Production Institute, 
 3D-Modelling (Catia.v5), Air Plane Part Database.  
 
 
-## Study
+### Study
 
 Master of Science: Software Engineering   
 California State University.   
